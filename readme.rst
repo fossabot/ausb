@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnipo%2Fausb.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnipo%2Fausb?ref=badge_shield)
+
 =======================================================
  Python3.5+ Asyncio wrapper for usb1 module (libusb-1)
 =======================================================
@@ -243,3 +245,7 @@ MIT, but you may probably conform to `python-libusb1 <usb1_>`_ and
 
 .. _usb1: https://github.com/vpelletier/python-libusb1
 .. _libusb: https://libusb.info
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnipo%2Fausb.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnipo%2Fausb?ref=badge_large)
